@@ -1,4 +1,4 @@
-# Ameze-Fashion-Mart-Web-App
+# Ameze-Fashion-Mart-E-commerce
 A fully functional web app, where user can purchase the items.
 >
 **What i used**
