@@ -1,4 +1,4 @@
-# Ameze-Fashion-Mart-E-commerce
+# Alasca Fashion- Earlier Ameze Fashion Mart
 A fully functional web app, where user can purchase the items.
 >
 **What i used**
